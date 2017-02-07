@@ -44,11 +44,12 @@ Apparition de 2 mondes discjoints (Machine Turing + Calculateur Electroniques)
  - en 1946 par Eckert et Mauchly
  - 27 tonnes, 18k tubes, 70k resistances, 150KW
  - 5k additions par secondes, double précision, nombre décimaux 10 chiffres + signes
- - Servira aux calcul pour la bombe H ... 
+ - Servira aux calcul pour la bombe H ...
 
  **Bilan : Humain (20h) >> Analyseur diff (15min) >> ENIAC (30s)**
 
 ##### 2.6 Le rapport EDVAC #####
  - Par John Neumann (Maths, Physique, Info)
  - Séparation mem-processeur, mem unique, séparation calcul-séquencement
- - Diffusion organisée par l'armée
+ - Diffusion organisée par l'armée (Moore School Lectures)
+ - Projet EDVAC réalisé ensuite
