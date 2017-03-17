@@ -41,7 +41,16 @@ Rentabilité Economique (RE) = (Résultat Net + Charges d'intérêt) / (Capitaux
 
 3 Méthodes :
 - Délai de récupération des capitaux investis  
-- Valeur actuelle nette (VAN)  
-- Le taux interne de rentabilité
+- Valeur actuelle nette (VAN) [Rentable si VAN > 0]
+- Le taux interne de rentabilité (TIR : Taux qui rend VAN = 0) [Rentable si TIR > Cout du capital]
 
-*Expl: Investissement 280k en 5ans, CA 250k puis 280k, 60% du CA ?*
+*Expl:*  
+**Capacité Autofinancement (CAF) = CA - Charges - Impôts**  
+**Flux Net Trésorerie = CAF - Variation Besoin Fond Roulement**  
+
+|Années                     |    1    |    2    |    3    |    4    |    5    |
+|---------------------------|---------|---------|---------|---------|---------|
+| CA prévi                  | 520k    | 730k    | 1000k   | 885k    | 640k    |
+| Charge exploitation prévi | 400k    | 450k    | 520k    | 540k    | 500k    |
+| Capacité Autofinancement  | 120k    | 226k    | 360k    | 270k    | 133k    |
+| Flux de trésorerie        | 68k     | 205k    | 333k    | 281k    | 222k    |
