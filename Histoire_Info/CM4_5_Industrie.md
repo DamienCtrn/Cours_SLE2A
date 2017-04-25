@@ -4,7 +4,7 @@
 **Technos :**  
 Tores de Ferrite > Transistors > Circuits Intégrés > LSI > VLSI > ...  
 **Utilisation majoritaire :**  
-Mainframe > Mini-ordinateurs, Supercalculateurs > Ordinateurs personnels > Machines parallèles
+Mainframe > Mini-ordinateurs, Supercalculateurs > Ordinateurs personnels > Machines parallèles  
 **Entreprises :**  
 IBM >>> le BUNCH, Hewlett Packard
 
